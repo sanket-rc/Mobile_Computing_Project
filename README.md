@@ -1,1 +1,1 @@
-# MC_Assignment1
+# Mobile Computing Project - 1
